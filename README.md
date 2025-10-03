@@ -11,14 +11,13 @@
 
 > Tools, languages, and other things that I love to work with.
 
-<p align="left">
+<h5 align="left">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/Quarkus-%23006ABC.svg?&style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus"/>
-</p>
+ 
+</h5>
 
 ---
 
